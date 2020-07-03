@@ -213,6 +213,10 @@ body {
     font-weight: 300;
     margin-bottom: 20px;
   }
+
+  &__iframe {
+    width: 100%;
+  }
 }
 
 .video {
@@ -224,5 +228,10 @@ body {
   &__title {
     font-weight: 300;
     margin-bottom: 20px;
+  }
+
+  &__video {
+    width: 100%;
+    height: auto;
   }
 }

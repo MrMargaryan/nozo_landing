@@ -296,6 +296,10 @@ body {
   margin-bottom: 20px;
 }
 
+.presentation__iframe {
+  width: 100%;
+}
+
 .video {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -313,5 +317,10 @@ body {
 .video__title {
   font-weight: 300;
   margin-bottom: 20px;
+}
+
+.video__video {
+  width: 100%;
+  height: auto;
 }
 /*# sourceMappingURL=style.css.map */
